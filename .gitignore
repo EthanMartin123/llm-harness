@@ -1,0 +1,5 @@
+.venv/
+.env
+results/raw
+data/chroma/
+__pychache__/
